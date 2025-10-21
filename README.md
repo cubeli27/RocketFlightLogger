@@ -14,7 +14,7 @@
 - 1S Bat connector on-board
 - BMI088 IMU on-board
 - Autoboot circuit simplified
-- minimal components
+- Minimal component count
 - Programmer not part of PCBA
 
 ---
