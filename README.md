@@ -5,8 +5,8 @@
 **Rocket Flight Logger** is developed for messuring the acceleration of a pressurised rocket. The intial setup was d1-mini with esp8266 dev board and external IMU and battery connected with soldered wires. This project combines that into one board aiming to reduce all unnecessary weight.  
 
 <p align="center">
-  <img src="Images/IMG_3931.jpg" alt="PCBA" width="45%"/>
-  <img src="Images/IMG_3934.jpg" alt="PCBA" width="45%"/>
+  <img src="Images/IMG_3931.JPG" alt="PCBA" width="45%"/>
+  <img src="Images/IMG_3934.JPG" alt="PCBA" width="45%"/>
 </p>
 
 
@@ -36,7 +36,7 @@
 How to program fresh boards.
 
 <p align="center">
-  <img src="Images/WiringDiagram.jpg" alt="WiringDiagram" width="80%"/>
+  <img src="Images/WiringDiagram.JPG" alt="WiringDiagram" width="80%"/>
 </p>
 
 
