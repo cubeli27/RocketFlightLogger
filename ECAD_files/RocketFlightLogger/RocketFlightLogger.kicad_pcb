@@ -4279,20 +4279,9 @@
 			(uuid "cfb249a6-d724-4a12-aa1a-1d057be96522")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/LIB/3dmodels/S2B-PH-SM4-TB_LF__SN_/S2B-PH-SM4-TB_LF__SN_.stp"
 			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "C:/Users/JCU/Documents/KiCad/9.0/3dmodels/S2B-PH-SM4-TB_LF__SN_/3D/S2B-PH-SM4-TB_LF__SN_.stp"
-			(offset
-				(xyz 0 -4.25 0)
+				(xyz 0 -4.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
